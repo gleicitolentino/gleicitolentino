@@ -6,7 +6,7 @@
   Atualmente estudante de Programação FullStack Web no DevClub e UI/UX Design na Udemy.
 </p>
 
-<strong>Tecnóloga em Gestão de Pessoas</strong>
+<strong>Tecnóloga em Gestão de Pessoas e Desenvolvedora Front-End</strong>
 
 <p align="left">
   💌 Sobre mim: ⤵️
